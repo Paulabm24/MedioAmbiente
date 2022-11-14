@@ -4,4 +4,4 @@ Algunas de las acciones para cuidar el medioambiente seria:
 - Recicla
 - Reduce el consumo de energia
 - Hacer un consumo responsable
-![image](reciclar.jpg)
+![image](recilar.jpg)
