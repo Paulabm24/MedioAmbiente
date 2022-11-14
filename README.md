@@ -12,7 +12,10 @@ Es un conjunto de componentes fisicos, quimicos y biologicos externos con los qu
 
 - [¿Cómo podemos garantizar la protección del medio ambiente?](pregunta4.md)
 ## Referencias
-   [wikipedia](https://es.wikipedia.org/wiki/Medio_ambiente_natural)
+   [https://es.wikipedia.org/wiki/Medio_ambiente_natural]
+   [www.google.es]
+   [https://www.universitatcarlemany.com/actualidad/que-son-los-riesgos-ambientales-principales-ejemplos]
 ## Licencia
 ![image](licencia.PNG)
 
+Paula Brito Milan
