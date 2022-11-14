@@ -14,4 +14,5 @@ Es un conjunto de componentes fisicos, quimicos y biologicos externos con los qu
 ## Referencias
    [wikipedia](https://es.wikipedia.org/wiki/Medio_ambiente_natural)
 ## Licencia
+![image](licencia.png)
 
